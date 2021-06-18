@@ -14,7 +14,7 @@ Website refactored: https://einsteindg.github.io/refactor/
 
 ## Corrections:
 
-- Found an issue while clicking on the box. {<a href="#search-engine-optimization">Search Engine Optimization</a>}
+- Found an issue while clicking on the box. {<a href="https://einsteindg.github.io/refactor/#search-engine-optimization" target="_blank">Search Engine Optimization</a>} The link to the location was not exist. So, the page was not scrolling in any direction as it should.
 - Found some ""div/class="" redundances in the HTML and CSS code, which were adressed and corrected, making the code more readable and organized.
 
 ## Conslusion:
