@@ -14,8 +14,8 @@ Website refactored: https://einsteindg.github.io/refactor/
 
 ## Corrections:
 
-- Found an issue while clicking on the box. [<a href="#search-engine-optimization">Search Engine Optimization</a>].
-- Found some <div class=""> redundances in the HTML and CSS code, which were adresses and corrected, making the code more readable and organized.
+- Found an issue while clicking on the box. {<a href="#search-engine-optimization">Search Engine Optimization</a>}
+- Found some ""div/class="" redundances in the HTML and CSS code, which were adressed and corrected, making the code more readable and organized.
 
 ## Conslusion:
 - After corrections were applied the website is free of bugs and operating as intended again. Code is more friendly to read and organized for future maintenance.
